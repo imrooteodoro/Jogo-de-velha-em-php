@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    
+}
+
+body{
+    
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    background: rgb(7, 79, 38);
+    color: white;
+    
+}
+body h1{
+    color:white;
+}
+
+.formulario{
+    align-items: center;
+    align-content: centers;
+    margin: auto;
+    text-align: center;
+}
+.container{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+ .tabela{
+
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding: 5rem;
+    margin: auto;
+}
+.tabela button{
+    padding: 2rem;
+    border-radius: 10px;
+    border: none;
+}
+
+.container button a{
+    text-decoration: none;
+    color:rgb(6, 12, 6);
+    font-weight: 600;
+    color: white;
+    
+    text-transform: uppercase;
+}
+.container button{
+    background-color: rgb(12, 130, 97);
+    box-shadow: 5px 4px 20px rgb(73, 70, 70);
+    border-radius:10px ;
+    border: solid 1px;
+    color: rgb(21, 9, 6);
+    font-size: 20px;
+    text-transform: uppercase;}
+.container h2{
+    color:rgb(241, 239, 238);
+    text-shadow: 2px 2px 10px rgb(120, 117, 117);
+}
+
